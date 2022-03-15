@@ -1,0 +1,71 @@
+﻿"ID","Title","Created By","Priority","References","Steps (Expected Result)","Steps (Step)","Updated By","Updated On"
+"C1","Kryteria oceny defektów","Angelika J","Medium","","1. Uzytkownicy są oceniani zgodnie z założeniami.","1. Przetestowanie oceniania według kryteriów ważności i 3 klas.","Angelika J","3/10/2022 6:03 PM"
+"C2","Zdefiniowanie ilości aplikacji","Angelika J","Medium","","1. Instrukcja jest napisana zrozumiale i bez błędów
+2. dostępne 4 wersje aplikacji","1. Użytkownik zapoznaje się ze specyfikacją
+2. Użytkownik znajduje nieścisłości w specyfikacji. Wymagane są 4 wersje aplikacji klienckiej, przedstawiono 3 wersje aplikacji: demonstracyjna, końcowa, publiczna","Angelika J","3/10/2022 6:03 PM"
+"C3","W każdym zadaniu w aplikacji ma być dokładnie 1 defekt","Angelika J","Medium","","1. 
+2. 
+3. 
+4. 
+5. 
+6.","1. 1.Uruchom 1 zadanie
+2. 2. Wskaż defekt klikając w pole ""Zgłoś defekt""
+3. 3. Podczas zgłaszania defektu zaznacz do jakiej kategorii nalezy defekt i wybrane checkboxy potwierdz przyciskiem ""zatwierdz""
+4. 4. Potwierdz swoje wybory, klikając przycisk ""Tak""
+5. 5. Po przeniesieniu do następnego zadania postępuj zgodnie z krokami 1 - 4, aż do ostatniego zadania w aplikacji.
+6. 6. Po zgłoszeniu defektów w poszczególnych zadaniach, kliknij przycisk ""zakończ""","Angelika J","3/10/2022 6:03 PM"
+"C4","brak możliwości raportowania defektów w trybie członka drużyny","Angelika J","Medium","","1. aplikacja uruchomiona
+2. zalogowano jako członek drużyny
+3. aplilkacja uniemożliwia raportowanie defektów, funkcjonalność zablokowana","1. uruchom aplikacje MrBuggy3 wersję kliencką
+2. zaloguj się jako członek drużyny
+3. uruchom funkcjonalność ''raportowanie defektów''","Angelika J","3/10/2022 6:03 PM"
+"C5","Sprawdzenie różnic pomiędzy poszczególnymi wersjami aplikacji","Angelika J","Medium","","1. Ilość zadań powinna się różnić
+2. Cechy aplikacji są takie same","1. Użytkownik porównuje ilość zadań w poszczególnych wersjach aplikacji
+2. Użytkownik porównuje pozostałe cechy aplikacji","Angelika J","3/10/2022 6:03 PM"
+"C6","Odpowiednia ilość błędów w zadaniach i możliwość ich zaraportowania","Angelika J","Medium","","1. W każdym zadaniu znajduje się tylko jeden defekt który można zaraportować
+2.","1. Uruchom aplikację
+2. Przejść przez wszystkie zadania i zaraportować błędy","Angelika J","3/10/2022 6:03 PM"
+"C7","W aplikacji publicznej powinno być nie mniej niż 15 zadań","Angelika J","Medium","","1. Aplikacja uruchomiona
+2. W aplikacji jest nie mniej niż 15 zadań","1. Uruchomienie aplikacji Mr Buggy 3
+2. Sprawdzenie czy w aplikacji jest dostępnych co najmniej 15 zadań","Angelika J","3/10/2022 6:03 PM"
+"C8","w wersji demonstracyjnej ma być tylko jedno zadanie","Angelika J","Medium","","1. Po włączeniu aplikacji użytkownik powinien mieć dostęp tylko do jednego zadania","1. Użytkownik apisuje na dysku aplikację MrBuggy w wersji demonstarcyjej. Użytkownik włącza aplikację.","Angelika J","3/10/2022 6:03 PM"
+"C9","Brak możliwośći zmiany trybu pracy podczas działania aplikacji","Angelika J","Medium","","1. Brak mozliwości zmiany trybu pracy podczas jej działania
+2.","1. Uruchomienie aplikacji
+2. Próba zmiany trybu pracy","Angelika J","3/10/2022 6:03 PM"
+"C10","Tworzenie i wczytywanie kopii zapasowej podczas klikania przycisku ""Znalazłem defekt"" i ponownym uruchamianiu programu","Angelika J","Medium","","1. Użytkownik zostanie przeniesiony do kolejnego zadania. Utworzy się kopia zapasowa
+2. Program zostanie wyłączony
+3. Kopia zapasowa zostanie wczytana. Program zostanie uruchomiony w miejscu utworzenie kopii zapasowej","1. Kliknięcie w przycisk ""Znalazłem defekt""
+2. Zamknięcie programu Mr Buggy3
+3. Ponowne uruchomienie programu Mr Buggy3","Angelika J","3/10/2022 6:03 PM"
+"C11","Sprawdzenie wyświetlonego czasu do końca trwania każdej rundy","Angelika J","Medium","","1. W trakcie wyświetlonego zadania widoczny jest licznik odmierzający czas do końca trwania każdej rundy","1. Użytkownik ma otwarte zadanie testowe w programie","Angelika J","3/10/2022 6:03 PM"
+"C12","Prezentacja poleceń","Angelika J","Medium","","1. Po prawej stronie ekranu powinno znajdować się okno, w którym będzie prezentowana ogólna informacja, na temat danego zadania. Okienko powinno być na tyle duże, aby swobodnie czytać tekst i przewijalne, np. w przypadku gdy treść polecenia jest dłuższa.","1. otwórz dowolne zadanie","Angelika J","3/10/2022 6:03 PM"
+"C13","Raportowanie defektu - happy path","Angelika J","Medium","","1. 1.Aplikacja powinna przejść do kolejnego zadania
+2. 2.Wyłącznie zadanie ze zgłoszonym błędem powinno być nieaktywne
+3.","1. Kliknij „zgłoś defekt”
+2. Opisz defekt
+3. Zatwierdź defekt","Angelika J","3/10/2022 6:03 PM"
+"C14","Potwierdzenie zakończenia pracy aplikacji Mrbuggy3","Angelika J","Medium","","1. Otwiera się okno z informacją ""Czy chcesz zakończyć pracę "" oraz dwoma przyciskami do wyboru ""Tak"" i ""Nie"".
+2. Aplikacja kończy działanie.","1. Użytkownik kończy pracę i wciska przycisk ""Zakończ""
+2. Użytkownik potwierdza zakończenie pracy przyciskiem ""Tak"".","Angelika J","3/10/2022 6:03 PM"
+"C15","Okno z zadaniem o nr 2 zawierającym defekt dla całkowitego pokrycia prostokątów","Angelika J","Medium","","1. a) Wyświetlenie defektu do znalezienia polegającego na tym, że w przypadku, gdy jeden z prostokątów całkowicie pokrywa drugi, zostaje wyświetlona niepoprawna informacja, że prostokąty nie pokrywają się.
+b) Możliwość przesuwania tekstu w górę i dół za pomocą suwaka w oknie zadania
+2.","1. Wybranie z menu bocznego w bloku „Lista zadań” zadania o nr „2”
+2. Uruchomienie funkcji sprawdzającej czy prostokąty pokrywają się gdy wyświetlone zostaną dwa prostokąty","Angelika J","3/10/2022 6:03 PM"
+"C16","Aplikacja ma być w języku polskim","Angelika J","Medium","","1. wszystko jest w języku polskim
+2. wyświetla się następne zadanie
+3. wszystko jest w języku polskim
+4. wszystko jest w języku polskim
+5. wyświetla się okno
+6. wszystko jest w języku polskim
+7. okno się zamyka
+8. pojawiają się napisy
+9. wszystko jest w języku polskim","1. przeczytaj zadanie i jego opis
+2. przejdź do następnego zadania
+3. powtarzaj krok 1 i 2 do końca zadań
+4. przeczytaj napisy na UI
+5. kliknij w przycisk ""i""
+6. przeczytaj tekst okna
+7. zamknij okno
+8. kliknij w przycisk ""?""
+9. przeczytaj napisy","Angelika J","3/10/2022 6:03 PM"
+"C26","Test eksploracyjny MrBuggy3","Angelika J","Medium","","","","Angelika J","3/14/2022 7:13 PM"
